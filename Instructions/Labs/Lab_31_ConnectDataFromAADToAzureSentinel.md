@@ -5,7 +5,7 @@ lab:
     module: '모듈 04 - Azure Active Directory 모니터링 및 유지 관리'
 ---
 
-# 랩 31: Azure Active Directory (Azure AD)에서 Azure Sentinel로 데이터 연결
+# 랩 31: Azure Active Directory(Azure AD)에서 Azure Sentinel로 데이터 연결
 
 ## 랩 시나리오
 

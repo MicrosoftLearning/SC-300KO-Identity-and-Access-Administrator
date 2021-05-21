@@ -80,4 +80,4 @@ Azure AD의 **속성** 영역에 조직의 개인 정보를 추가합니다. 속
 
     ![메시지를 포함한 B2B 협업 검토 권한 상자](./media/active-directory-no-privacy-statement-or-contact.png)
 
-1. **저장**을 선택합니다.
+3. **저장**을 선택합니다.

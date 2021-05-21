@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '14 - Azure AD Multi-Factor Authentication 사용'
+    title: '14 - 보안 기본값 사용'
     learning path: '02'
     module: '모듈 03 - 조건부 액세스 계획, 구현 및 관리'
 ---

@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '29 - Azure AD 역할에 대한 Privileged Identity Management 구성'
+    title: '29 - Privileged Identity Management에서 Azure AD 역할 할당'
     learning path: '04'
     module: '모듈 03 - 권한 있는 액세스 계획 및 구현'
 ---
@@ -88,7 +88,7 @@ Azure AD 역할을 가정해야 하는 경우 Privileged Identity Management에�
 >[!팁]
 >관리 단위 범위 유형에 대한 자세한 내용은 [https://docs.microsoft.com/ko-kr/azure/active-directory/roles/admin-units-manage](https://docs.microsoft.com/en-us/azure/active-directory/roles/admin-units-manage)를 참조하세요.
 
-1. 제한된 범위 없이 역할을 할당할 때와 마찬가지로 구성원을 추가하고 설정 옵션을 완료합니다. 이제 **취소**를 선택합니다.
+5. 제한된 범위 없이 역할을 할당할 때와 마찬가지로 구성원을 추가하고 설정 옵션을 완료합니다. 이제 **취소**를 선택합니다.
 
 ## 기존 역할 할당 업데이트 또는 제거
 

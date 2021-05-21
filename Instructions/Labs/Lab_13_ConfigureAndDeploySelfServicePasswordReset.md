@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '13 - Azure AD Multi-Factor Authentication 사용'
+    title: '13 - 셀프 서비스 암호 재설정 구성 및 배포'
     learning path: '02'
     module: '모듈 02 - 사용자 인증 관리'
 ---

@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '04 - 삭제된 사용자 복원'
+    title: '04 - 삭제한 사용자 복원'
     learning path: '01'
     module: '모듈 02 - ID 생성, 구성 및 관리'
 ---
