@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '06 - 그룹 라이선스 할당 변경'
     learning path: '01'
