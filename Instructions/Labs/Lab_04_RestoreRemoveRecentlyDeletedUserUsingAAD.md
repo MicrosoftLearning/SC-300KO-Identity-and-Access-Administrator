@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '04 - 삭제한 사용자 복원'
     learning path: '01'
