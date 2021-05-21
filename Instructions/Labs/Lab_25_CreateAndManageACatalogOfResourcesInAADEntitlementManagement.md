@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '25 - Azure AD 권한 관리에서 리소스 카탈로그 생성 및 관리'
     learning path: '04'
