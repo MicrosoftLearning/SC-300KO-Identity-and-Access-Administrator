@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '29 - Privileged Identity Management에서 Azure AD 역할 할당'
     learning path: '04'
