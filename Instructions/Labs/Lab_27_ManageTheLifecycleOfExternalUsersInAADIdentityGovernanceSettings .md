@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '27 - Azure AD Identity Governance 설정에서 외부 사용자의 수명 주기 관리'
     learning path: '04'
