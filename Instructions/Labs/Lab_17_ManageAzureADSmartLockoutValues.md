@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '17 - Azure AD 스마트 잠금 값 관리'
     learning path: '02'
