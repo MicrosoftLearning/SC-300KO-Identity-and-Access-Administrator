@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '14 - 보안 기본값 사용'
     learning path: '02'
