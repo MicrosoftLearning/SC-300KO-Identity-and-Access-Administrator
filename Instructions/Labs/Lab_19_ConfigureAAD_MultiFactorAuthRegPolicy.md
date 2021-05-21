@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '19 - Azure AD Multi-Factor Authentication 등록 정책 구성'
     learning path: '02'
