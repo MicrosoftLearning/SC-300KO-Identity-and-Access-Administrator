@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '10 - 게스트 사용자 일괄 초대'
     learning path: '01'

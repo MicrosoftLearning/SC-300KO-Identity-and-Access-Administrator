@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '22 - 애플리케이션 등록'
     learning path: '03'
