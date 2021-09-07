@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '07 - 사용자 계정 라이선스 할당 변경'
     learning path: '01'
@@ -27,8 +27,8 @@ lab:
     | :--- | :--- |
     | 사용자 이름| Dominique|
     | 이름| Dominique Koch|
-    | First name| Dominique|
-    | Last name| Koch|
+    | 이름| Dominique|
+    | 성| Koch|
     | 암호| Pass@word1|
     | 사용 위치| *선호하는 사용 위치 선택*|
 
@@ -46,6 +46,8 @@ lab:
 1. 사용자 블레이드에서 **Dominique Koch**를 선택합니다.
 
 1. 왼쪽 탐색 영역에서 **라이선스**를 선택합니다.
+
+1. **+할당** 단추를 선택합니다. 
 
 1. 라이선스 할당 업데이트 블레이드에서 라이선스 하나 이상의 확인란을 선택합니다.
 

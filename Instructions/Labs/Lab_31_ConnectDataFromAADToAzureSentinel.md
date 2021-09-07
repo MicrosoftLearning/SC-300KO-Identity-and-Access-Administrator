@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '31 - Azure Active Directory(Azure AD)에서 Azure Sentinel로 데이터 연결'
     learning path: '04'
@@ -31,7 +31,7 @@ Azure Sentinel에 사용할 수 있는 작업 영역이 아직 없는 경우 다
 
 1. **Azure Sentinel**을 검색하여 선택합니다.
 
-1. Azure Sentinel 작업 영역 블레이드의 메뉴에서 **+ 추가**를 선택합니다.
+1. Azure Sentinel 작업 영역 블레이드의 메뉴에서 **+ 만들기**를 선택합니다.
 
 1. Azure Sentinel 작업 영역이 이미 있는 경우 해당 작업 영역을 선택하고 다음 작업을 계속할 수 있습니다.
 
