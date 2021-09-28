@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '16 - 인증 세션 컨트롤 구성'
     learning path: '02'
