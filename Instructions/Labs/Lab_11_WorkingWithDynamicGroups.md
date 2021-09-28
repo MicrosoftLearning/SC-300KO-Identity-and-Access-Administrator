@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '11 - 동적 그룹 작업
     learning path: '01'
