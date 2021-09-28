@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '30 - Privileged Identity Management에서 Azure 리소스 역할 할당'
     learning path: '04'
