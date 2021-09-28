@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '14 - Azure AD Multi-Factor Authentication 사용'
     learning path: '02'
