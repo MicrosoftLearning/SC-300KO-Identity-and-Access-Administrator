@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '07 - 사용자 계정 라이선스 할당 변경'
     learning path: '01'
@@ -13,44 +13,40 @@ lab:
 
 #### 예상 시간: 5분
 
-## Azure Active Directory에서 새 사용자 생성
+## 연습 1 - 사용자 계정에 Windows 10 라이선스 추가
+
+### 작업 1 - Azure Active Directory에서 사용이 허가되지 않은 사용자 찾기
 
 1. [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)로 이동합니다.
 
-1. 왼쪽 탐색 영역의 **관리**에서 **사용자**를 선택합니다.
+2. 왼쪽 탐색 영역의 **관리**에서 **사용자**를 선택합니다.
 
-1. 사용자 블레이드의 메뉴에서 새 사용자를 선택합니다.
+3. 사용자 블레이드에서 검색 상자에 **Raul**을 입력합니다.
 
-1. 다음 정보를 사용하여 사용자를 생성합니다.
+4. **Raul Razo**를 클릭합니다.
+5. Raul의 프로필을 검토하여 사용 위치가 설정되어 있음을 확인합니다.
 
-    | **설정**| **값**|
-    | :--- | :--- |
-    | 사용자 이름| Dominique|
-    | 이름| Dominique Koch|
-    | 이름| Dominique|
-    | 성| Koch|
-    | 암호| Pass@word1|
-    | 사용 위치| *선호하는 사용 위치 선택*|
+    **경고** - 라이선스를 할당하려는 사용자에게는 사용 위치가 할당되어 있어야 합니다.
 
-    >경고
-    >사용자에게 라이선스를 할당하려면 사용자에게 사용 위치를 할당해야 합니다.
+6. 왼쪽 메뉴에서 **라이선스** 메뉴를 클릭합니다.
+7. "라이선스 할당을 찾을 수 없습니다."라는 메시지가 표시되는지 확인합니다.
 
-1. 완료되면 **모든 사용자** 목록에 Chris Green의 계정이 표시되는지 확인합니다.
-
-## 사용자 라이선스 할당 업데이트
+### 작업 2 - 사용자 라이선스 할당 업데이트
 
 1. [https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview]( https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview)로 이동합니다.
 
-1. 왼쪽 탐색 영역의 **관리**에서 **사용자**를 선택합니다.
+2. 왼쪽 탐색 영역의 **관리**에서 **사용자**를 선택합니다.
 
-1. 사용자 블레이드에서 **Dominique Koch**를 선택합니다.
+3. 사용자 블레이드에서 **Raul Razo**를 선택합니다.
 
-1. 왼쪽 탐색 영역에서 **라이선스**를 선택합니다.
+4. 왼쪽 탐색 영역에서 **라이선스**를 선택합니다.
 
-1. **+할당** 단추를 선택합니다. 
+5. **+ 할당** 단추를 선택합니다. 
 
-1. 라이선스 할당 업데이트 블레이드에서 라이선스 하나 이상의 확인란을 선택합니다.
+6. 라이선스 할당 업데이트 블레이드에서 **Windows 10 Enterprise E3** 라이선스의 체크박스를 선택합니다.
 
     ![라이선스 할당 업데이트 페이지와 강조 표시된 라이선스 옵션을 보여주는 화면 이미지](./media/lp1-mod2-assign-user-license-options.png)
 
-1. 완료되면 **저장**을 선택합니다.
+7. 완료되면 **저장**을 선택합니다.
+8. 화면 위쪽에서 `Home > Contoso Marketing > User >` **Raul Razo**를 클릭합니다.
+9. 라이선스가 할당되었음을 확인합니다.
