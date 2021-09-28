@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '02 - 테넌트 속성 사용'
     learning path: '01'
