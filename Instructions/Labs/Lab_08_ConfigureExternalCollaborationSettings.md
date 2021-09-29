@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '08 - 외부 협업 설정 구성'
     learning path: '01'

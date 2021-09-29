@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '00 - 랩 설정'
     learning path: '01'
