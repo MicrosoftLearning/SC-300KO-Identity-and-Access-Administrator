@@ -1,8 +1,8 @@
 ﻿---
 lab:
-    title: '11 - 동적 그룹 작업
+    title: '11 - 동적 그룹 작업'
     learning path: '01'
-    module: '모듈 03 ? 외부 ID 구현 및 관리'
+    module: '모듈 03 - 외부 ID 구현 및 관리'
 ---
 
 # 랩 11: 동적 그룹 작업

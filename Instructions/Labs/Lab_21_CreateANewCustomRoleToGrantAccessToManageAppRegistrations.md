@@ -36,8 +36,8 @@ lab:
 9. 결과에서 **관리** 권한을 선택하고 **다음**을 선택합니다.
 
     ```
-       microsoft.directory/servicePrincipals/managePasswordSingleSignOnCredentials - 서비스 주체의 암호 Single Sign-On 자격 증명을 관리합니다.
-       microsoft.directory/servicePrincipals/synchronizationCredentials/manage - 애플리케이션 프로비전 비밀 및 자격 증명을 관리합니다.
+       microsoft.directory/servicePrincipals/managePasswordSingleSignOnCredentials  -   Manage password single sign-on credentials or service principals.
+       microsoft.directory/servicePrincipals/synchronizationCredentials/manage    -   Manage application provisioning secrets and credentials.
     ```
 
     ![검색, 사용 권한 관리, 다음 강조 표시를 포함하는 새 사용자 지정 역할 사용 권한 탭을 표시하는 화면 이미지](./media/lp3-mod1-custom-role-permissions.png)

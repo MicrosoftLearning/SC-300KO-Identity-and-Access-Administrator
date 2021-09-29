@@ -17,7 +17,7 @@ lab:
 
 ## 연습 1 - Azure에서 다단계 인증을 검토하고 사용하도록 설정
 
-### 작업 1 ? Azure Multi-Factor Authentication 옵션 검토
+### 작업 1 - Azure Multi-Factor Authentication 옵션 검토
 
 1. [https://portal.azure.com](https://portal.azure.com)으로 이동한 후 해당 디렉터리에 대한 전역 관리자 계정을 사용하여 로그인합니다.
 

@@ -49,7 +49,7 @@ Azure Active Directory(Azure AD) PIM(Privileged Identity Management)는 사용�
 
 9. 왼쪽 탐색 메뉴의 **관리**에서 **역할**을 선택하여 Azure 리소스에 대한 역할 목록을 표시합니다.
 
-10. 상단 메뉴에서 + **할당 추가**를 선택합니다.
+10. 상단 메뉴에서 **+ 할당 추가**를 선택합니다.
 
 11. 할당 추가 블레이드에서 **역할 선택** 메뉴를 선택한 다음 **API Management 서비스 기여자**를 선택합니다.
 
@@ -85,6 +85,6 @@ Azure Active Directory(Azure AD) PIM(Privileged Identity Management)는 사용�
 
 5. 작업 열의 **적격 역할** 탭에서 사용 가능한 옵션을 검토합니다.
 
-6. 제거를 선택합니다.
+6. **제거**를 선택합니다.
 
-7. 제거 대화 상자에서 정보를 검토한 다음 예를 선택합니다.
+7. **제거** 대화 상자에서 정보를 검토한 다음 **예**를 선택합니다.
