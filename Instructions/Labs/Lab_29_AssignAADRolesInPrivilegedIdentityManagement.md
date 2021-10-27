@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '29 - Azure AD 역할에 대한 Privileged Identity Management 구성'
     learning path: '04'
@@ -13,7 +13,7 @@ lab:
 
 Azure AD PIM(Privileged Identity Management) 서비스를 사용하여 권한 있는 역할 관리자는 영구 디렉터리 역할을 할당할 수도 있습니다. 또한 권한이 있는 역할 관리자는 사용자의 Azure AD 관리자 역할을 적격으로 만들 수 있습니다. 적격인 관리자는 필요할 때 역할을 활성화할 수 있으며 작업을 완료하고 나면 권한이 만료됩니다.
 
-#### 예상 시간: 15분
+#### 예상 소요 시간: 15분
 
 ## 역할 할당
 
