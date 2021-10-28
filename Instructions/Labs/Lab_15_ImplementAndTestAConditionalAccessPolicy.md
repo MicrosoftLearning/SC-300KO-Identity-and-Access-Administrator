@@ -11,7 +11,7 @@ lab:
 
 조직에서 내부 애플리케이션에 대한 사용자 액세스를 제한할 수 있어야 합니다. Azure Active Directory 조건부 액세스 정책을 배포해야 합니다.
 
-#### 예상 시간: 12분
+#### 예상 소요 시간: 12분
 
 ## 연습 1 - DebraB의 Yammer 액세스를 차단하는 조건부 액세스 정책 설정
 
@@ -74,10 +74,14 @@ Azure Active Directory 조건부 액세스는 리소스에 액세스 할 수 있
 
 조건부 액세스 정책을 테스트하여 예상대로 작동하는지 확인해야 합니다.
 
-1. 새 브라우저 탭을 열고 [https://www.yammer.com/office365](https://www.yammer.com/office365)로 이동합니다.
+1. 새 'Inprivate' 브라우저 탭을 열고 [https://www.yammer.com/office365](https://www.yammer.com/office365)로 이동합니다.
+     - 메시지가 표시되면 DebraB로 로그인합니다.
 
-     자격 증명을 전달해야 합니다.
- 
+    | 설정 | 값 |
+    | :--- | :--- |
+    | 사용자 이름 | **DebraB@** `<<your lab domain>>.onmicrosoft.com` |
+    | 암호 | **pass@word123** |
+      
 2. Microsoft Yammer에 액세스할 수 없도록 되어 있는지 확인합니다.
 
     ![활성화된 조건부 액세스 정책으로 인해 차단된 리소스 액세스가 표시된 화면 이미지](./media/lp2-mod3-test-conditional-access-policy.png)
