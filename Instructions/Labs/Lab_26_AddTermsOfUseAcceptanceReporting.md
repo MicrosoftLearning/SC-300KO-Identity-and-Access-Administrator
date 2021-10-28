@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '26 - 사용 약관 및 동의 보고 추가'
     learning path: '04'
