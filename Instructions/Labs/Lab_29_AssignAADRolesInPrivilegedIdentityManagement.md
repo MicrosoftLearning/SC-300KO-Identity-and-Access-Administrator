@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '29 - Azure AD 역할에 대한 Privileged Identity Management 구성'
     learning path: '04'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '13 - Azure AD 셀프 서비스 암호 재설정 사용'
     learning path: '02'
