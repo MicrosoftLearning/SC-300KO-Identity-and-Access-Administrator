@@ -15,7 +15,7 @@ lab:
 
 ## 게스트 사용자 일괄 초대
 
-1. 조직에서 사용자 관리자인 계정으로 [https://portal.azure.com](https://portal.azure.com)에 로그인합니다.
+1. 전역 관리자로 [https://portal.azure.com](https://portal.azure.com)에 로그인합니다.
 
 1. 탐색 창에서 **Azure Active Directory**를 선택합니다.
 
