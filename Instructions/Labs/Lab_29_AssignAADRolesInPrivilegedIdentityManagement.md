@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '29 - Azure AD 역할에 대한 Privileged Identity Management 구성'
     learning path: '04'
@@ -67,7 +67,7 @@ Azure AD PIM(Privileged Identity Management) 서비스를 사용하여 권한 �
 5. **Azure를 시작합니다!** 대화 상자를 닫습니다.
 6. **리소스, 서비스 및 문서 검색** 창에서 Azure Active Directory를 검색하여 해당 블레이드를 엽니다.
 7. **개요** 페이지에서 **내 피드**를 찾습니다.
-8. **Miriam Graham**의 이름을 선택합니다. 그러면 Miriam의 프로필 페이지가 열립니다.
+8. Miriam Graham의 이름 아래에서 **프로필 보기**를 선택합니다. 그러면 Miriam의 프로필 페이지가 열립니다.
 9. **할당된 역할**, **적격 할당**을 차례로 선택합니다.
 10. 현재 Miriam에게는 **준수 관리자** 역할을 할당할 수 있습니다.
 
