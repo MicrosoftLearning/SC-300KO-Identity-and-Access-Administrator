@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '29 - Azure AD 역할에 대한 Privileged Identity Management 구성'
     learning path: '04'
@@ -62,7 +62,7 @@ Azure AD PIM(Privileged Identity Management) 서비스를 사용하여 권한 �
 | 필드 | 값 |
 | :--- | :--- |
 | 사용자 이름 | **MiriamG@** `<<your domain.onmicrosoft.com>>` |
-| 암호 | pass@word123 |
+| 암호 |  테넌트의 관리자 암호를 입력합니다(랩 리소스 탭에서 테넌트 관리자 암호를 검색할 수 있음). |
 
 5. **Azure를 시작합니다!** 대화 상자를 닫습니다.
 6. **리소스, 서비스 및 문서 검색** 창에서 Azure Active Directory를 검색하여 해당 블레이드를 엽니다.
