@@ -17,14 +17,14 @@ lab:
 
 ### 작업 1 - Delia Dennis에게 Office 365 액세스 권한이 있는지 확인
 
-1. 브라우저 창을 시작합니다.
+1. 새 InPrivate 브라우저 창을 시작합니다.
 2. [https://www.office.com](https://www.office.com)에 연결합니다.
 3. 로그인을 클릭하고 Delia Dennis로 연결합니다.
 
     | **설정**| **값**|
     | :--- | :--- |
     | 사용자 이름 | DeliaD@ <<Azure 도메인>>|
-    | 암호| pass@word123|
+    | 암호| 리소스에서 전역 관리자의 암호 입력|
 
 4. Office.com 웹 사이트에 연결은 되지만 라이선스가 없다는 메시지가 표시됩니다.
 
@@ -71,14 +71,14 @@ lab:
 
 ### 작업 4 - Office 365 라이선스 확인
 
-1. 브라우저 창을 시작합니다.
+1. 새 InPrivate 브라우저 창을 시작합니다.
 2. [https://www.office.com](https://www.office.com)에 연결합니다.
 3. 로그인을 클릭하고 Delia Dennis로 연결합니다.
 
     | **설정**| **값**|
     | :--- | :--- |
     | 사용자 이름 | DeliaD@ <<Azure 도메인>>|
-    | 암호| pass@word123|
+    | 암호| 리소스에서 전역 관리자의 암호 입력|
 
 4. Office.com 웹 사이트에 연결하여 라이선스 관련 메시지가 없는지 확인해야 합니다. 모든 Office 애플리케이션은 왼쪽에서 사용할 수 있습니다.
 
